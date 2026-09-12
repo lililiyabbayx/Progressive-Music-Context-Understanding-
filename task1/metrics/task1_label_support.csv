@@ -1,0 +1,63 @@
+label_id,tag,train_pos,val_pos,test_pos
+0,low quality,980,96,141
+1,instrumental,723,95,89
+2,emotional,499,59,62
+3,noisy,490,58,78
+4,energetic,480,61,52
+5,medium tempo,477,59,60
+6,passionate,465,64,63
+7,amateur recording,409,44,62
+8,slow tempo,386,39,48
+9,live performance,373,52,44
+10,acoustic drums,318,42,33
+11,fast tempo,306,40,35
+12,mono,287,26,44
+13,groovy,265,25,31
+14,bass guitar,248,31,18
+15,electric guitar,243,32,22
+16,acoustic guitar,230,33,27
+17,instrumental music,203,18,25
+18,piano,190,26,23
+19,moderate tempo,189,16,19
+20,uptempo,186,34,27
+21,punchy snare,184,23,28
+22,shimmering hi hats,182,12,23
+23,happy,180,22,23
+24,groovy bass,179,24,25
+25,punchy kick,179,23,34
+26,e-bass,178,26,18
+27,poor audio quality,178,17,27
+28,male voice,175,22,26
+29,percussion,171,19,16
+30,male vocal,170,24,14
+31,male singer,163,14,17
+32,no voices,161,20,21
+33,pop,159,17,21
+34,rock,157,25,25
+35,electronic drums,155,15,18
+36,youthful,154,14,21
+37,spirited,151,17,17
+38,bass,144,15,18
+39,upbeat,144,22,15
+40,romantic,138,20,19
+41,exciting,137,18,22
+42,loud,133,20,15
+43,mellow,133,8,17
+44,flat male vocal,126,6,19
+45,keyboard harmony,126,19,15
+46,fun,123,17,20
+47,easygoing,122,18,14
+48,relaxing,115,10,19
+49,cheerful,114,20,16
+50,no singer,112,12,6
+51,e-guitar,110,23,14
+52,keyboard,110,10,15
+53,no other instruments,109,15,13
+54,intense,106,12,16
+55,calming,105,16,18
+56,enthusiastic,104,12,15
+57,melodic singing,104,15,10
+58,electronic music,103,12,13
+59,groovy bass line,103,13,10
+60,medium to uptempo,103,10,14
+61,vibrant,101,10,7

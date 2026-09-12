@@ -1,0 +1,2 @@
+dataset,model,number_of_labels,best_epoch,validation_selected_probability_threshold,test_micro_f1_score,test_macro_f1_score,test_micro_precision,test_micro_recall,test_mean_area_under_precision_recall_curve
+google/MusicCaps,distilbert-base-uncased,62,10,0.27,0.5991977784634372,0.36349495846774055,0.6456117021276596,0.5590097869890616,0.5019773802531637

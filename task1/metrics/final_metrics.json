@@ -1,0 +1,46 @@
+{
+  "best_epoch": 10,
+  "checkpoint_selection": "validation mean AUC-PR",
+  "best_validation_mean_auc_pr": 0.5040348807392787,
+  "primary_global_threshold": 0.27,
+  "test_loss": 0.10516161902954704,
+  "test_at_0_5": {
+    "micro_f1": 0.4971145919208574,
+    "macro_f1": 0.21202561506125486,
+    "micro_precision": 0.8751814223512336,
+    "micro_recall": 0.3471502590673575,
+    "macro_precision": 0.33151778324535935,
+    "macro_recall": 0.17679657146918523,
+    "mean_auc_pr": 0.5019773802531637,
+    "true_positive_rate": 0.048303671181201935,
+    "predicted_positive_rate": 0.019160177975528363,
+    "true_positive_count": 1737.0,
+    "predicted_positive_count": 689.0
+  },
+  "test_at_primary_global_threshold": {
+    "micro_f1": 0.5991977784634372,
+    "macro_f1": 0.36349495846774055,
+    "micro_precision": 0.6456117021276596,
+    "micro_recall": 0.5590097869890616,
+    "macro_precision": 0.3803776347698045,
+    "macro_recall": 0.3864598125515172,
+    "mean_auc_pr": 0.5019773802531637,
+    "true_positive_rate": 0.048303671181201935,
+    "predicted_positive_rate": 0.04182424916573971,
+    "true_positive_count": 1737.0,
+    "predicted_positive_count": 1504.0
+  },
+  "test_at_validation_per_label_thresholds": {
+    "micro_f1": 0.5596667483459936,
+    "macro_f1": 0.4896781299899686,
+    "micro_precision": 0.4872013651877133,
+    "micro_recall": 0.6574553828439839,
+    "macro_precision": 0.48869763488677237,
+    "macro_recall": 0.5755858516794382,
+    "mean_auc_pr": 0.5019773802531637,
+    "true_positive_rate": 0.048303671181201935,
+    "predicted_positive_rate": 0.06518353726362625,
+    "true_positive_count": 1737.0,
+    "predicted_positive_count": 2344.0
+  }
+}

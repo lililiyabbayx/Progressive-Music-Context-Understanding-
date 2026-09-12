@@ -1,0 +1,9 @@
+genre,test,training,validation
+Electronic,100,800,100
+Experimental,100,800,100
+Folk,100,800,100
+Hip-Hop,100,800,100
+Instrumental,100,800,100
+International,100,800,100
+Pop,100,800,100
+Rock,100,800,100

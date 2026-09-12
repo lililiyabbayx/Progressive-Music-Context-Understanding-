@@ -1,0 +1,306 @@
+[
+  {
+    "test_index": 0,
+    "ytid": "-0SdAVK79lg",
+    "start_s": 30,
+    "end_s": 40,
+    "caption": "This song features an electric guitar as the main instrument. The guitar plays a descending run in the beginning then plays an arpeggiated chord followed by a double stop hammer on to a higher note and a descending slide followed by a descending chord run. The percussion plays a simple beat using rim shots. The percussion plays in common time. The bass plays only one note on the first count of each bar. The piano plays backing chords. There are no voices in this song. The mood of this song is relaxing. This song can be played in a coffee shop.",
+    "original_aspects": [
+      "guitar song",
+      "piano backing",
+      "simple percussion",
+      "relaxing melody",
+      "slow tempo",
+      "bass",
+      "country feel",
+      "instrumental",
+      "no voice"
+    ],
+    "true_retained_tags": [
+      "instrumental",
+      "slow tempo",
+      "bass"
+    ],
+    "primary_global_threshold": 0.27,
+    "predicted_tags": [
+      [
+        "instrumental",
+        0.6689453125
+      ],
+      [
+        "no voices",
+        0.46435546875
+      ],
+      [
+        "moderate tempo",
+        0.431396484375
+      ]
+    ],
+    "top5_model_scores": [
+      [
+        "instrumental",
+        0.6689453125
+      ],
+      [
+        "no voices",
+        0.46435546875
+      ],
+      [
+        "moderate tempo",
+        0.431396484375
+      ],
+      [
+        "slow tempo",
+        0.25146484375
+      ],
+      [
+        "no other instruments",
+        0.2186279296875
+      ]
+    ]
+  },
+  {
+    "test_index": 138,
+    "ytid": "BzM0qok5Cns",
+    "start_s": 30,
+    "end_s": 40,
+    "caption": "The low quality recording features a commercial song that consists of an acoustic rhythm guitar, claps, shimmering shakers, shimmering bells melody, synth lead melody, simple bass and generic female voice tag. It sounds happy, fun and joyful.",
+    "original_aspects": [
+      "low quality",
+      "commercial song",
+      "acoustic rhythm guitar",
+      "claps",
+      "shimmering shakers",
+      "shimmering bells melody",
+      "synth lead melody",
+      "simple bass",
+      "happy",
+      "fun",
+      "joyful",
+      "generic female voice tag"
+    ],
+    "true_retained_tags": [
+      "low quality",
+      "happy",
+      "fun"
+    ],
+    "primary_global_threshold": 0.27,
+    "predicted_tags": [
+      [
+        "low quality",
+        0.81201171875
+      ],
+      [
+        "happy",
+        0.47802734375
+      ],
+      [
+        "fun",
+        0.326171875
+      ]
+    ],
+    "top5_model_scores": [
+      [
+        "low quality",
+        0.81201171875
+      ],
+      [
+        "happy",
+        0.47802734375
+      ],
+      [
+        "fun",
+        0.326171875
+      ],
+      [
+        "noisy",
+        0.24560546875
+      ],
+      [
+        "groovy bass",
+        0.1644287109375
+      ]
+    ]
+  },
+  {
+    "test_index": 286,
+    "ytid": "SbUwQctvbHg",
+    "start_s": 240,
+    "end_s": 250,
+    "caption": "This song is played on a glockenspiel. This is low quality audio. The glockenspiel sounds like large bells. There is a lot of reverb in this audio. There are no other instruments in this song. There are no voices in this song. This song sounds like the song that would be played in a music box.",
+    "original_aspects": [
+      "glockenspiel song",
+      "sound of bells",
+      "no voices",
+      "slow tempo",
+      "amateur recording"
+    ],
+    "true_retained_tags": [
+      "amateur recording",
+      "slow tempo",
+      "no voices"
+    ],
+    "primary_global_threshold": 0.27,
+    "predicted_tags": [
+      [
+        "instrumental",
+        0.52685546875
+      ],
+      [
+        "no voices",
+        0.326416015625
+      ]
+    ],
+    "top5_model_scores": [
+      [
+        "instrumental",
+        0.52685546875
+      ],
+      [
+        "no voices",
+        0.326416015625
+      ],
+      [
+        "moderate tempo",
+        0.201171875
+      ],
+      [
+        "slow tempo",
+        0.195556640625
+      ],
+      [
+        "no other instruments",
+        0.1688232421875
+      ]
+    ]
+  },
+  {
+    "test_index": 434,
+    "ytid": "gsEk62Efbh4",
+    "start_s": 140,
+    "end_s": 150,
+    "caption": "This salsa song contains percussive elements as maracas,cowbell and bongos creating a typical salsa rhythm spread across both sides of the speakers. An e-bass is playing a complex walking bassline. An acoustic piano is playing a melody up and down the scales along with backing vocals singing in harmony as a countermelody to the male lead voice singing in the midrange. This song may be playing in a latin bar.",
+    "original_aspects": [
+      "salsa",
+      "cowbell",
+      "bongos",
+      "maracas",
+      "acoustic piano",
+      "backing vocals",
+      "male voice singing",
+      "mid range",
+      "uptempo"
+    ],
+    "true_retained_tags": [
+      "uptempo"
+    ],
+    "primary_global_threshold": 0.27,
+    "predicted_tags": [
+      [
+        "acoustic drums",
+        0.365234375
+      ],
+      [
+        "e-bass",
+        0.35888671875
+      ]
+    ],
+    "top5_model_scores": [
+      [
+        "acoustic drums",
+        0.365234375
+      ],
+      [
+        "e-bass",
+        0.35888671875
+      ],
+      [
+        "uptempo",
+        0.1993408203125
+      ],
+      [
+        "amateur recording",
+        0.161865234375
+      ],
+      [
+        "medium to uptempo",
+        0.1314697265625
+      ]
+    ]
+  },
+  {
+    "test_index": 579,
+    "ytid": "zqbHYVH6Wqo",
+    "start_s": 30,
+    "end_s": 40,
+    "caption": "The song is an instrumental. The tempo is medium with traditional horn instruments playing, tambourine percussion, keyboard harmony and cymbal crashes. The song is devotional and spirited. The song has a bad audio quality with ambient crowd noises.",
+    "original_aspects": [
+      "traditional horn instruments",
+      "devotional",
+      "ambient crowd noise",
+      "instrumental music",
+      "bad audio quality",
+      "cymbals crashing",
+      "percussions playing",
+      "tambourine percussions",
+      "people clapping",
+      "cheering sounds",
+      "prayer",
+      "national spirit",
+      "patriotic",
+      "self identity",
+      "slow tempo",
+      "jewish traditional music",
+      "meditational"
+    ],
+    "true_retained_tags": [
+      "slow tempo",
+      "instrumental music"
+    ],
+    "primary_global_threshold": 0.27,
+    "predicted_tags": [
+      [
+        "medium tempo",
+        0.6953125
+      ],
+      [
+        "instrumental music",
+        0.6728515625
+      ],
+      [
+        "poor audio quality",
+        0.4619140625
+      ],
+      [
+        "emotional",
+        0.412109375
+      ],
+      [
+        "passionate",
+        0.408935546875
+      ]
+    ],
+    "top5_model_scores": [
+      [
+        "medium tempo",
+        0.6953125
+      ],
+      [
+        "instrumental music",
+        0.6728515625
+      ],
+      [
+        "poor audio quality",
+        0.4619140625
+      ],
+      [
+        "emotional",
+        0.412109375
+      ],
+      [
+        "passionate",
+        0.408935546875
+      ]
+    ]
+  }
+]

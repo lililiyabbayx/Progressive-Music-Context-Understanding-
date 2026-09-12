@@ -1,0 +1,40 @@
+{
+  "dataset": "FMA small",
+  "official_split": true,
+  "sample_rate": 22050,
+  "duration_seconds": 30.0,
+  "segmentation": "Four beat groups with fixed three second fallback",
+  "beats_per_node": 4,
+  "node_feature_dimension": 228,
+  "node_features": [
+    "64 bin log mel mean and standard deviation",
+    "20 MFCC mean and standard deviation",
+    "12 chroma mean and standard deviation",
+    "7 spectral contrast mean and standard deviation",
+    "6 tonnetz mean and standard deviation",
+    "spectral centroid bandwidth rolloff zero crossing rate and root mean square mean and standard deviation"
+  ],
+  "normalization": "StandardScaler fitted on training graph nodes only",
+  "edge_types": [
+    "temporal adjacency",
+    "cosine similarity"
+  ],
+  "similarity_threshold": 0.5,
+  "similarity_top_k": 3,
+  "graph_model": "Two layer residual GraphSAGE with global mean pooling",
+  "graph_hidden_dimension": 192,
+  "graph_batch_size": 48,
+  "graph_learning_rate": 0.0005,
+  "graph_maximum_epochs": 50,
+  "cnn_model": "Residual convolutional neural network on 128 bin log mel spectrograms",
+  "cnn_batch_size": 48,
+  "cnn_learning_rate": 0.0007,
+  "cnn_maximum_epochs": 35,
+  "loss": "Cross entropy loss with training label smoothing",
+  "label_smoothing": 0.05,
+  "model_weights_saved": false,
+  "large_runtime_caches_included_in_zip": false,
+  "number_of_saved_graph_examples": 24,
+  "fast_development_run": false,
+  "seed": 42
+}

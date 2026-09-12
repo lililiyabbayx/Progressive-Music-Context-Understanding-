@@ -1,0 +1,22 @@
+{
+  "genre_to_index": {
+    "Electronic": 0,
+    "Experimental": 1,
+    "Folk": 2,
+    "Hip-Hop": 3,
+    "Instrumental": 4,
+    "International": 5,
+    "Pop": 6,
+    "Rock": 7
+  },
+  "index_to_genre": {
+    "0": "Electronic",
+    "1": "Experimental",
+    "2": "Folk",
+    "3": "Hip-Hop",
+    "4": "Instrumental",
+    "5": "International",
+    "6": "Pop",
+    "7": "Rock"
+  }
+}

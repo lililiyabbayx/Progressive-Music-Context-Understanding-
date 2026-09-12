@@ -1,0 +1,8 @@
+track_id,error
+98565,ValueError('Decode too short: 1.61 seconds')
+98567,ValueError('Decode too short: 0.51 seconds')
+98569,ValueError('Decode too short: 1.53 seconds')
+99134,"CalledProcessError(1, ['ffmpeg', '-v', 'error', '-y', '-i', '/kaggle/input/datasets/imsparsh/fma-free-music-archive-small-medium/fma_small/fma_small/099/099134.mp3', '-ac', '1', '-ar', '22050', '/tmp/fma_99134.wav'])"
+107535,ValueError('Near silent decoded track.')
+108925,"CalledProcessError(1, ['ffmpeg', '-v', 'error', '-y', '-i', '/kaggle/input/datasets/imsparsh/fma-free-music-archive-small-medium/fma_small/fma_small/108/108925.mp3', '-ac', '1', '-ar', '22050', '/tmp/fma_108925.wav'])"
+133297,"CalledProcessError(1, ['ffmpeg', '-v', 'error', '-y', '-i', '/kaggle/input/datasets/imsparsh/fma-free-music-archive-small-medium/fma_small/fma_small/133/133297.mp3', '-ac', '1', '-ar', '22050', '/tmp/fma_133297.wav'])"
