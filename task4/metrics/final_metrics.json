@@ -1,0 +1,45 @@
+{
+  "caption_to_audio": {
+    "recall_at_1": 0.033023735810113516,
+    "recall_at_5": 0.1021671826625387,
+    "recall_at_10": 0.16305469556243551,
+    "median_rank": 69.0,
+    "mean_rank": 137.4984520123839,
+    "mean_reciprocal_rank": 0.07844522149219639
+  },
+  "audio_to_caption": {
+    "recall_at_1": 0.023735810113519093,
+    "recall_at_5": 0.09494324045407637,
+    "recall_at_10": 0.16408668730650156,
+    "median_rank": 69.0,
+    "mean_rank": 129.422084623323,
+    "mean_reciprocal_rank": 0.07219022110963814
+  },
+  "random_chance": {
+    "recall_at_1": 0.0010319917440660474,
+    "recall_at_5": 0.005159958720330237,
+    "recall_at_10": 0.010319917440660475
+  },
+  "zero_shot_audio_graph_to_aspect": {
+    "macro_f1_score": 0.11659684384298138,
+    "micro_f1_score": 0.11803392177223954,
+    "macro_area_under_precision_recall_curve": 0.07943612465894165
+  },
+  "zero_shot_caption_to_aspect": {
+    "macro_f1_score": 0.11970012625991462,
+    "micro_f1_score": 0.12243568870074895,
+    "macro_area_under_precision_recall_curve": 0.0925998227220026
+  },
+  "audio_graph_aspect_similarity_threshold": -0.060000000000000005,
+  "caption_aspect_similarity_threshold": -0.020000000000000004,
+  "graph_coherence": 0.6159740960604425,
+  "modality_diagnostics": {
+    "mean_paired_cosine": 0.38171035051345825,
+    "mean_random_nonpaired_cosine": 0.08168957382440567,
+    "modality_centroid_cosine": 0.6931846141815186,
+    "modality_gap_1_minus_cosine": 0.30681538581848145
+  },
+  "best_epoch": 11,
+  "best_validation_mean_recall_at_10": 0.10371602884082086,
+  "test_size": 969
+}

@@ -1,0 +1,171 @@
+{
+  "case": 1,
+  "track_id": 13814,
+  "true_genre": "Folk",
+  "predicted_genre": "Folk",
+  "true_tags": [
+    "clinical archives"
+  ],
+  "predicted_tags": [
+    [
+      "experimental",
+      0.03720401972532272
+    ],
+    [
+      "hip hop",
+      0.010968047194182873
+    ],
+    [
+      "instrumental",
+      0.008626656606793404
+    ],
+    [
+      "clinical archives",
+      0.0033879359252750874
+    ],
+    [
+      "breakcore",
+      0.002890203380957246
+    ]
+  ],
+  "top_attention_tokens": [
+    {
+      "token": "stones",
+      "attention": 0.27883073687553406,
+      "position": 60
+    },
+    {
+      "token": "stones",
+      "attention": 0.1674022674560547,
+      "position": 117
+    },
+    {
+      "token": "##hir",
+      "attention": 0.08377096801996231,
+      "position": 29
+    },
+    {
+      "token": "##hir",
+      "attention": 0.07797209918498993,
+      "position": 97
+    },
+    {
+      "token": "##hir",
+      "attention": 0.07078779488801956,
+      "position": 40
+    },
+    {
+      "token": "##hir",
+      "attention": 0.042182885110378265,
+      "position": 16
+    },
+    {
+      "token": "of",
+      "attention": 0.02140323631465435,
+      "position": 42
+    },
+    {
+      "token": "of",
+      "attention": 0.020343227311968803,
+      "position": 31
+    },
+    {
+      "token": "of",
+      "attention": 0.019781038165092468,
+      "position": 99
+    },
+    {
+      "token": "prehistoric",
+      "attention": 0.019224556162953377,
+      "position": 57
+    },
+    {
+      "token": "-",
+      "attention": 0.01916874572634697,
+      "position": 59
+    },
+    {
+      "token": "prehistoric",
+      "attention": 0.01816689968109131,
+      "position": 114
+    },
+    {
+      "token": "of",
+      "attention": 0.013682186603546143,
+      "position": 18
+    },
+    {
+      "token": "standing",
+      "attention": 0.0122425127774477,
+      "position": 58
+    },
+    {
+      "token": "standing",
+      "attention": 0.011120559647679329,
+      "position": 115
+    }
+  ],
+  "text": "track title: Red Roses. album title: Different World. artist: Menhirs of Er Grah. artist descriptors: menhirs of er grah. artist biography: Menhirs of Er Grah (Tom Carter) is a folk band named after some prehistoric standing-stones in France. Tom Carter lives in London, and has released a number of lo-fi/electronica albums under the anagram of March Rosetta.. album information: Menhirs of Er Grah (Tom Carter) is a folk band named after some prehistoric standing-stones in France. The album was made in 7 days \u2013 a day to write and record each of the songs from scratch, and then a day to mix and master them all. Voice and guitar parts were recorded simultaneously into the same mic, and then a second guitar part was recorded as another track on-top. Tom Carter lives in London, and has released a number of lo-fi/electronica albums under the anagram of March Rosetta.",
+  "strong_similarity_edges": [
+    {
+      "source": 4,
+      "target": 9,
+      "type": "similarity",
+      "weight": 0.9954464435577393
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "type": "similarity",
+      "weight": 0.9942523837089539
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "type": "similarity",
+      "weight": 0.9927017092704773
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "type": "similarity",
+      "weight": 0.990973949432373
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "type": "similarity",
+      "weight": 0.9879821538925171
+    },
+    {
+      "source": 4,
+      "target": 11,
+      "type": "similarity",
+      "weight": 0.9879348874092102
+    },
+    {
+      "source": 9,
+      "target": 11,
+      "type": "similarity",
+      "weight": 0.9875668287277222
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "type": "similarity",
+      "weight": 0.9875003099441528
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "type": "similarity",
+      "weight": 0.9858345985412598
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "type": "similarity",
+      "weight": 0.9846358299255371
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "case": 2,
+  "track_id": 37962,
+  "true_genre": "Electronic",
+  "predicted_genre": "Electronic",
+  "true_tags": [
+    "dance"
+  ],
+  "predicted_tags": [
+    [
+      "electronic",
+      0.08915437757968903
+    ],
+    [
+      "electro",
+      0.020106980577111244
+    ],
+    [
+      "idm",
+      0.013176042586565018
+    ],
+    [
+      "dance",
+      0.012725786305963993
+    ],
+    [
+      "era 1",
+      0.010848668403923512
+    ]
+  ],
+  "top_attention_tokens": [
+    {
+      "token": "music",
+      "attention": 0.4790216386318207,
+      "position": 50
+    },
+    {
+      "token": "electronic",
+      "attention": 0.06094933673739433,
+      "position": 49
+    },
+    {
+      "token": "peter",
+      "attention": 0.060494564473629,
+      "position": 36
+    },
+    {
+      "token": "##nic",
+      "attention": 0.04056648910045624,
+      "position": 100
+    },
+    {
+      "token": "of",
+      "attention": 0.03217916563153267,
+      "position": 113
+    },
+    {
+      "token": "##pping",
+      "attention": 0.02830314077436924,
+      "position": 115
+    },
+    {
+      "token": "peter",
+      "attention": 0.025952422991394997,
+      "position": 30
+    },
+    {
+      "token": "peter",
+      "attention": 0.023992376402020454,
+      "position": 20
+    },
+    {
+      "token": "of",
+      "attention": 0.0152799217030406,
+      "position": 48
+    },
+    {
+      "token": "composer",
+      "attention": 0.012277199886739254,
+      "position": 47
+    },
+    {
+      "token": "-",
+      "attention": 0.011452998965978622,
+      "position": 121
+    },
+    {
+      "token": "ac",
+      "attention": 0.010690527968108654,
+      "position": 41
+    },
+    {
+      "token": "projects",
+      "attention": 0.010154484771192074,
+      "position": 95
+    },
+    {
+      "token": "pier",
+      "attention": 0.008737849071621895,
+      "position": 39
+    },
+    {
+      "token": "##z",
+      "attention": 0.008703882806003094,
+      "position": 124
+    }
+  ],
+  "text": "track title: Do u wanna shake hands?. album title: Why not?. artist: Peter Sharp. artist descriptors: italy, peter sharp. artist biography: Peter Sharp aka Piero Acuto is an independent Italian composer of electronic music and he's also an experienced graphic designer and conceptual thinker . He was drummer and percussionist of the band Changin Club and member of the electronic fanzine Torino Disco Cross. H e has collaborated, for different projects, with: Papanico (Africa Unite) Roby Vitari (The Art of Zapping - Kutfaces - Hollywood Killerz), Doc Delavie (Doctor Jazz Universal Remedy), Righeira, Paduraru, Y il bisbetico dopato, Stokka & Mad Buddy, The Art of Zapping, Roger Rama, Master Mp3, Frankie Boy, Luca Ragagnin, Lou-c, Dana & the Blue Family Stone, Giorgio Curti (SKK Project), Kikskoda, Rossella Cangini, Giorgio Licalzi, Luca Minchillo R.I.P. (Radio7, Radio Nova - Paris).",
+  "strong_similarity_edges": [
+    {
+      "source": 0,
+      "target": 4,
+      "type": "similarity",
+      "weight": 0.9999478459358215
+    },
+    {
+      "source": 8,
+      "target": 16,
+      "type": "similarity",
+      "weight": 0.999724268913269
+    },
+    {
+      "source": 12,
+      "target": 16,
+      "type": "similarity",
+      "weight": 0.9977096319198608
+    },
+    {
+      "source": 8,
+      "target": 12,
+      "type": "similarity",
+      "weight": 0.9974426627159119
+    },
+    {
+      "source": 9,
+      "target": 17,
+      "type": "similarity",
+      "weight": 0.9940787553787231
+    },
+    {
+      "source": 14,
+      "target": 18,
+      "type": "similarity",
+      "weight": 0.994055449962616
+    },
+    {
+      "source": 10,
+      "target": 14,
+      "type": "similarity",
+      "weight": 0.9939831495285034
+    },
+    {
+      "source": 6,
+      "target": 14,
+      "type": "similarity",
+      "weight": 0.9932156205177307
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "type": "similarity",
+      "weight": 0.9932003617286682
+    },
+    {
+      "source": 10,
+      "target": 18,
+      "type": "similarity",
+      "weight": 0.9927758574485779
+    }
+  ]
+}

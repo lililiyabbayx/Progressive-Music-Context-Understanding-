@@ -1,0 +1,5 @@
+{
+  "training_validation_artist_overlap": 0,
+  "training_test_artist_overlap": 0,
+  "validation_test_artist_overlap": 0
+}

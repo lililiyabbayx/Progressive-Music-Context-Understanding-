@@ -1,0 +1,44 @@
+{
+  "bert_only": {
+    "genre_accuracy": 0.7385657820440429,
+    "genre_macro_f1_score": 0.4314858605006996,
+    "genre_micro_f1_score": 0.7385657820440429,
+    "tag_macro_f1_score": 0.1604905894786802,
+    "tag_micro_f1_score": 0.2248995983935743,
+    "tag_mean_average_precision": 0.20631078311311413,
+    "validation_selected_tag_probability_threshold": 0.45000000000000007,
+    "best_epoch": 5
+  },
+  "gnn_only": {
+    "genre_accuracy": 0.6900056465273856,
+    "genre_macro_f1_score": 0.38139882569150835,
+    "genre_micro_f1_score": 0.6900056465273856,
+    "tag_macro_f1_score": 0.04792168916326786,
+    "tag_micro_f1_score": 0.07573047107930829,
+    "tag_mean_average_precision": 0.046440913840697325,
+    "validation_selected_tag_probability_threshold": 0.30000000000000004,
+    "best_epoch": 5
+  },
+  "early_concat": {
+    "genre_accuracy": 0.7476002258610954,
+    "genre_macro_f1_score": 0.39629045694930404,
+    "genre_micro_f1_score": 0.7476002258610954,
+    "tag_macro_f1_score": 0.16119347878542634,
+    "tag_micro_f1_score": 0.20050761421319796,
+    "tag_mean_average_precision": 0.23134788221380242,
+    "validation_selected_tag_probability_threshold": 0.6500000000000001,
+    "best_epoch": 6
+  },
+  "cross_attention": {
+    "genre_accuracy": 0.7611518915866742,
+    "genre_macro_f1_score": 0.3979775765073063,
+    "genre_micro_f1_score": 0.7611518915866742,
+    "tag_macro_f1_score": 0.11550237723446277,
+    "tag_micro_f1_score": 0.0748792270531401,
+    "tag_mean_average_precision": 0.2102979659829357,
+    "validation_selected_tag_probability_threshold": 0.5000000000000001,
+    "best_epoch": 8
+  },
+  "cross_attention_graph_coherence": 0.8647488584474886,
+  "cross_attention_genre_cosine_silhouette_score": 0.09652601927518845
+}

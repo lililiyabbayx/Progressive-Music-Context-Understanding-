@@ -1,0 +1,7 @@
+{
+  "official_musiccaps_rows": 5521,
+  "audio_available_unique_pairs": 5352,
+  "training_pairs": 2580,
+  "validation_pairs": 1803,
+  "test_pairs": 969
+}

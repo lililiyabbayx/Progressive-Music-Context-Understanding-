@@ -1,0 +1,25 @@
+file,track_id,genre,split
+001042.pt,1042,Blues,test
+004850.pt,4850,Classical,validation
+003459.pt,3459,Country,training
+020695.pt,20695,Easy Listening,training
+000397.pt,397,Electronic,training
+000425.pt,425,Experimental,training
+000139.pt,139,Folk,training
+000003.pt,3,Hip-Hop,training
+010230.pt,10230,Instrumental,test
+018045.pt,18045,International,training
+000237.pt,237,Jazz,training
+005009.pt,5009,Old-Time / Historic,training
+000823.pt,823,Pop,training
+000136.pt,136,Rock,training
+000734.pt,734,Soul-RnB,test
+003446.pt,3446,Spoken,training
+001043.pt,1043,Blues,test
+001044.pt,1044,Blues,test
+001045.pt,1045,Blues,test
+001046.pt,1046,Blues,test
+001047.pt,1047,Blues,test
+001048.pt,1048,Blues,test
+003842.pt,3842,Blues,test
+004536.pt,4536,Blues,training

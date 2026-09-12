@@ -1,0 +1,6 @@
+{
+  "mean_paired_cosine": 0.38171035051345825,
+  "mean_random_nonpaired_cosine": 0.08168957382440567,
+  "modality_centroid_cosine": 0.6931846141815186,
+  "modality_gap_1_minus_cosine": 0.30681538581848145
+}

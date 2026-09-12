@@ -1,0 +1,42 @@
+{
+  "official_metadata_dataset": "google/MusicCaps",
+  "audio_dataset": "CLAPv2/MusicCaps",
+  "split": {
+    "training": "is_audioset_eval is False",
+    "validation": "is_audioset_eval is True and is_balanced_subset is False",
+    "test": "is_balanced_subset is True"
+  },
+  "sample_rate": 22050,
+  "clip_seconds": 10.0,
+  "segmentation": "Two beat nodes with fixed one second fallback",
+  "node_feature_dimension": 100,
+  "node_features": "MFCC chroma spectral contrast tonnetz and spectral descriptors using segment mean and standard deviation",
+  "edge_types": [
+    "temporal adjacency",
+    "cosine similarity"
+  ],
+  "similarity_threshold": 0.5,
+  "similarity_top_k": 3,
+  "graph_encoder": "Two layer residual GraphSAGE",
+  "text_encoder": "bert-base-uncased",
+  "bert_unfreeze_last_transformer_layers": 2,
+  "shared_embedding_dimension": 256,
+  "loss": "Symmetric InfoNCE",
+  "initial_temperature": 0.07,
+  "learnable_temperature": true,
+  "batch_size": 32,
+  "maximum_epochs": 20,
+  "early_stopping_patience": 4,
+  "bert_learning_rate": 2e-05,
+  "new_layer_learning_rate": 0.0004,
+  "weight_decay": 0.0001,
+  "zero_shot_maximum_aspects": 40,
+  "zero_shot_minimum_training_count": 12,
+  "model_weights_saved": false,
+  "large_raw_graph_cache_included_in_zip": false,
+  "saved_graph_samples": 24,
+  "task3_comparison_included": false,
+  "human_evaluation_included": false,
+  "fast_development_run": false,
+  "seed": 42
+}

@@ -1,0 +1,171 @@
+{
+  "case": 3,
+  "track_id": 144595,
+  "true_genre": "Electronic",
+  "predicted_genre": "Electronic",
+  "true_tags": [
+    "downtempo"
+  ],
+  "predicted_tags": [
+    [
+      "noise",
+      0.02252616547048092
+    ],
+    [
+      "experimental",
+      0.018872542306780815
+    ],
+    [
+      "new zealand",
+      0.01453874260187149
+    ],
+    [
+      "instrumental",
+      0.01379770040512085
+    ],
+    [
+      "electronic",
+      0.008023451082408428
+    ]
+  ],
+  "top_attention_tokens": [
+    {
+      "token": "cat",
+      "attention": 0.2199433296918869,
+      "position": 82
+    },
+    {
+      "token": "michael",
+      "attention": 0.20407837629318237,
+      "position": 67
+    },
+    {
+      "token": "cat",
+      "attention": 0.18001022934913635,
+      "position": 43
+    },
+    {
+      "token": "cat",
+      "attention": 0.05278695374727249,
+      "position": 32
+    },
+    {
+      "token": "cat",
+      "attention": 0.042425528168678284,
+      "position": 20
+    },
+    {
+      "token": "##scu",
+      "attention": 0.03817429393529892,
+      "position": 93
+    },
+    {
+      "token": "##io",
+      "attention": 0.0333852544426918,
+      "position": 55
+    },
+    {
+      "token": "-",
+      "attention": 0.033119410276412964,
+      "position": 77
+    },
+    {
+      "token": "ale",
+      "attention": 0.030367333441972733,
+      "position": 78
+    },
+    {
+      "token": "-",
+      "attention": 0.01813819818198681,
+      "position": 66
+    },
+    {
+      "token": "or",
+      "attention": 0.014011605642735958,
+      "position": 73
+    },
+    {
+      "token": "ale",
+      "attention": 0.011447246186435223,
+      "position": 51
+    },
+    {
+      "token": "act",
+      "attention": 0.010815816931426525,
+      "position": 88
+    },
+    {
+      "token": "##a",
+      "attention": 0.009104066528379917,
+      "position": 57
+    },
+    {
+      "token": "pro",
+      "attention": 0.008926092647016048,
+      "position": 38
+    }
+  ],
+  "text": "track title: Fioletovaya Tape. album title: The Big Numbers. artist: Trillion Catz. artist descriptors: darkwave, trillion catz. artist biography: Proyecto Trillion Catz es una formaci\u00f3n medio alem\u00e1n y medio rusa, formada por una sola persona - Michael Nordhagen- de origen ruso-alem\u00e1n. Trillion Catz empez\u00f3 su actividad en Mosc\u00fa, pero finalmente se traslad\u00f3 a Berl\u00edn y a otros pa\u00edses europeos. En los concierto e directo, la banda utiliza tanto guitarras como percusi\u00f3n. El \u00e1lbum 'The Big Numbers' fue grabado en 2016 en San Petersburgo, Rusia. En estos momentos la banda est\u00e1 trabajando para que sus directos sean programados y poderlos desarrollar dentro del marco europeo. Project Trillion catz this equipment from German and Russian. The group consists of one person - Michael Nordhagen- has a Russian-German origin. Trillion Catz based in Moscow and eventually moved to Berlin and other European countries. In concert, the band performs the songs with live guitars and drums. Album \u201cThe Big Numbers\u201d recorded in 2016 in St. Petersburg in Russia. At the moment the band is working on a live program and the development of the European space .",
+  "strong_similarity_edges": [
+    {
+      "source": 0,
+      "target": 8,
+      "type": "similarity",
+      "weight": 0.9997724294662476
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "type": "similarity",
+      "weight": 0.9997619986534119
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "type": "similarity",
+      "weight": 0.999582052230835
+    },
+    {
+      "source": 9,
+      "target": 13,
+      "type": "similarity",
+      "weight": 0.9993641972541809
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "type": "similarity",
+      "weight": 0.9993528723716736
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "type": "similarity",
+      "weight": 0.9993475675582886
+    },
+    {
+      "source": 0,
+      "target": 11,
+      "type": "similarity",
+      "weight": 0.999108076095581
+    },
+    {
+      "source": 7,
+      "target": 11,
+      "type": "similarity",
+      "weight": 0.999086320400238
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "type": "similarity",
+      "weight": 0.9990137815475464
+    },
+    {
+      "source": 8,
+      "target": 11,
+      "type": "similarity",
+      "weight": 0.998951256275177
+    }
+  ]
+}
